@@ -5,7 +5,10 @@ This is a stock management application for a store selling products computers.
 
 
 
-https://github.com/yahyamourid/GestCommande/assets/128039351/c4821e7b-f6c4-4f63-997d-4cbd1db79dc7
+
+https://github.com/yahyamourid/GestCommande/assets/128039351/6a4a375b-0e79-419d-ac00-0ae2dd4e1083
+
+
 
 
 ## How to Use
